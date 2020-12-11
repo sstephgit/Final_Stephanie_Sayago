@@ -1,0 +1,15 @@
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\bin\Debug\netcoreapp3.1\Final_Stephanie_Sayago.exe
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\bin\Debug\netcoreapp3.1\Final_Stephanie_Sayago.deps.json
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\bin\Debug\netcoreapp3.1\Final_Stephanie_Sayago.runtimeconfig.json
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\bin\Debug\netcoreapp3.1\Final_Stephanie_Sayago.runtimeconfig.dev.json
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\bin\Debug\netcoreapp3.1\Final_Stephanie_Sayago.dll
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\bin\Debug\netcoreapp3.1\Final_Stephanie_Sayago.pdb
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\obj\Debug\netcoreapp3.1\Final_Stephanie_Sayago.csprojAssemblyReference.cache
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\obj\Debug\netcoreapp3.1\Final_Stephanie_Sayago.AssemblyInfoInputs.cache
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\obj\Debug\netcoreapp3.1\Final_Stephanie_Sayago.AssemblyInfo.cs
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\obj\Debug\netcoreapp3.1\Final_Stephanie_Sayago.csproj.CoreCompileInputs.cache
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\obj\Debug\netcoreapp3.1\Final_Stephanie_Sayago.dll
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\obj\Debug\netcoreapp3.1\Final_Stephanie_Sayago.pdb
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\obj\Debug\netcoreapp3.1\Final_Stephanie_Sayago.genruntimeconfig.cache
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\NTB-SSAYAGO\source\repos\Final_Stephanie_Sayago\Final_Stephanie_Sayago\obj\Debug\netcoreapp3.1\Final_Stephanie_Sayago.csproj.CopyComplete
